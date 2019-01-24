@@ -7,6 +7,7 @@ dictionary = {
 '[c]' : '3'
 '[d]' : '4'
 '[e]' : '5'
+}
 
 input_file = 'C:/Users/me/Desktop/test1.xlsx'
 template_file = 'C:/Users/me/Desktop/template.docx'
